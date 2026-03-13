@@ -10,6 +10,7 @@ Sistema em desenvolvimento o para gerenciamento de barbearias.
 - Express
 - JWT
 - Cloudnary
+- Drizzle OMR
   
 ## 📸 Screenshots
 <img width="720" height="858" alt="Captura de tela 2026-03-13 105215" src="https://github.com/user-attachments/assets/ad1e3ce2-b681-4407-a0ff-1b6a8e1b8aac" />
